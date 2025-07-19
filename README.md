@@ -6,7 +6,7 @@ This project showcases my skills, projects, resume, and contact information.
 
 ## 🌐 Live Demo
 
-[Click here to view the website](https://yourusername.github.io/portfolio)  
+[Click here to view the website]( https://aman-1010415.github.io/CODSOFT-T1/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
