@@ -46,6 +46,13 @@ Went to Settings > Pages on GitHub.
 Selected the source as main branch and root folder.
 GitHub generated the live site automatically at the link shared above.
 
+License
+
+Open-sourced under the MIT License. You’re welcome to fork it and build on top of it.
+
+Thanks for checking out my work!
+
+
 
 
 
